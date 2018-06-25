@@ -1,4 +1,6 @@
 $colorPrimary: red;
-#app{
+body{
 	background: $colorPrimary;
+	height: 100vh;
+	width: 100%;
 }

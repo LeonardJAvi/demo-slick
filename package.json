@@ -14,8 +14,14 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "browser-sync": "^2.24.4",
     "gulp": "^3.9.1",
+    "gulp-html-beautify": "^1.0.1",
+    "gulp-ruby-haml": "0.0.9",
     "gulp-sass": "^4.0.1",
     "gulp-util": "^3.0.8"
+  },
+  "dependencies": {
+    "gulp-haml": "^1.0.1"
   }
 }
