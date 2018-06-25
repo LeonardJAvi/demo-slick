@@ -1,6 +1,5 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-// var haml = require('gulp-ruby-haml');
 var haml = require('gulp-haml');
 var browserSync = require('browser-sync').create();
 
